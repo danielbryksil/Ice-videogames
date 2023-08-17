@@ -1,4 +1,4 @@
-# Ice videogames
+# Ice Videogames: estudo para campanha publicitária de 2017
 
 ## Descrição do Projeto
 A loja online Ice vende videogames no mundo todo. As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas. Precisei identificar padrões que determinam se um jogo tem sucesso ou não. Isso permite identificações potenciais de grandes vencedores e planejar campanhas publicitárias.
